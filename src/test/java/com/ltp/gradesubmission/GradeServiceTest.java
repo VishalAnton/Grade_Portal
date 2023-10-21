@@ -31,7 +31,7 @@ public class GradeServiceTest {
             new Grade("Hermione", "Arithmancy", "A+")
         ));
 
-        List<Grade> result = gradeService.getGrades(); // Act
+        List<Grade> result = gradeService.getGrades(); 
 
         assertEquals("Harry", result.get(0).getName());
         assertEquals("Arithmancy", result.get(1).getSubject());
