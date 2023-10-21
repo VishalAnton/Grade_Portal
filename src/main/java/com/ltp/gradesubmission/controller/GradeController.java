@@ -34,5 +34,5 @@ public class GradeController {
         model.addAttribute("grades", gradeService.getGrades());
         return "grades";
     }
- 
+
 }
