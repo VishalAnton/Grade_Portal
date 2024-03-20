@@ -84,4 +84,5 @@ public class GradeServiceTest {
         gradeService.submitGrade(grade);
         verify(gradeRepository, times(1)).save(grade);
     }
+    
 }
