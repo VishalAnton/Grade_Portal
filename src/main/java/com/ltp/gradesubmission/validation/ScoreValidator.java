@@ -17,6 +17,9 @@ public class ScoreValidator implements ConstraintValidator<Score, String> {
     );
     @Override
     public boolean isValid(String value, ConstraintValidatorContext context) {
+        if (value == null) {
+            return true;
+        }
         for (String string : scores) {
             if (value.equals(string)) return true;
         }

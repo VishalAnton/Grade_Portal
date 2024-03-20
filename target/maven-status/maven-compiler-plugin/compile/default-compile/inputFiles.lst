@@ -1,3 +1,4 @@
+/Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/connectpostgresqldb/GradeEntity.java
 /Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/Constants.java
 /Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/validation/ScoreValidator.java
 /Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/validation/Score.java
@@ -5,4 +6,4 @@
 /Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/pojo/Grade.java
 /Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/GradeSubmissionApplication.java
 /Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/controller/GradeController.java
-/Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/repository/GradeRepository.java
+/Users/vishal/Grade_Portal/src/main/java/com/ltp/gradesubmission/repository/GradeJpaRepository.java

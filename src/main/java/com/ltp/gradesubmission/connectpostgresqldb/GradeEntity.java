@@ -37,7 +37,6 @@ public class GradeEntity {
         this.score = score;
     }
 
-    // Getters and setters
     public String getId() {
         return id;
     }
